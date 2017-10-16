@@ -8,3 +8,4 @@ Book Examples are from: "Python for Data Analysis" by W. McKinney, O'Reilly. Cod
 
 They are adapted here for accessing open data for health and using SODA (Socrata Open Data API). See: https://dev.socrata.com/ . Here is a Python related example: https://dev.socrata.com/blog/2016/02/01/pandas-and-jupyter-notebook.html . It will be used for IPPS (Inpatient Prospective Payment System) database found here: https://data.cms.gov/Medicare-Inpatient/Inpatient-Prospective-Payment-System-IPPS-Provider/97k6-zzx3
 
+Ref book for Genomic database: https://www.ncbi.nlm.nih.gov/books/NBK21128/
